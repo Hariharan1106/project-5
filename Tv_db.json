@@ -1,0 +1,297 @@
+[
+  {
+    "id": 1,
+    "title": "Aaha Kalyanam",
+    "story": "An ambitious Mahalaxmis life takes a U-turn when she is forced to marry Surya, a businessman. Stark opposites in nature, will love bloom between the couple?",
+    "genre": [
+      "Drama |",
+      " Romance |",
+      " Couples"
+    ],
+    "rating" : 3,
+    "poster" : "./Tvimages/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "siragadikka aasai",
+    "story": "Circumstances force Meena, a family-centric girl, to marry Muthu, a thug. Willthis unfortunate marriage turn into love?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Independent",
+        "Romance",
+        "Family"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "thamizhum saraswathiyum",
+    "story": "Saraswathi, a dropout, falls in love with an uneducated Thamizh, and they tie the knot. Now she has to prove herself and win over her husbands family.",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Family-Friendly"
+      ]
+    },
+    "rating" : 5,
+    "poster": "./Tvimages/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Pandian Stores 2",
+    "story": "Pandians life revolves around his big family. When his children get entangled with rivals, will their strong family bonds endure destinys trials?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Family",
+        "Bromance",
+        "Couples"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ponni",
+    "story": "Ponni, a simple girl faces many hardships in life until she meets Sakthivel. When circumstances bring them together under one roof, will they find love?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Emotional"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Modhalum Kaadhalum",
+    "story": "Vikram loves his daughter Tanvika, but fails to express himself. Vedha adores the kid, which makes him envy her. Can Tanvika bring these lonely hearts closer?",
+    "genres": {
+      "genre": [
+        "Romance",
+        "Drama",
+        "Family",
+        "Couples"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Eeramaana Rojaavey 2",
+    "story": "Kavya and Jeevas love story takes a hit when destiny forces them to marry each others elder siblings. How will these complicated relationship work?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Family",
+        "Romance",
+        "Common-Man Struggles"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Baakiyalakshmi",
+    "story": "When Baakiyalakshmi embarks on a journey to find her identity after divorce, she is weighed down by new responsiblities. Can she successfully forge her own path?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Family",
+        "Conspiracy",
+        "Couples"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/8.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Muthazhagu",
+    "story": "When village head Pechiammal stops dauntless Muthazhagus marriage twice, she is forced to marry her sophisticated son. Will this odd couple stay together?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Emotional"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/9.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Chellamma",
+    "story": "Unfortunate events bring Chellamma and Malar to Lakshmis doorstep, unaware of their past connection. As the truth unfolds, will it be a safe haven for them?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Emotional"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/10.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Thendral Vanthu Ennai Thodum",
+    "story": "After being separated for years, Abhi and Vetri cross paths again. When destiny offers a second chance to the couple, will history repeat itself?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Couples"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Kaatrukkena Veli",
+    "story": "Vennila leaves her wedding alter to pursue her dreams. Her path becomes challenging when she meets Surya, who hates his mother for choosing her career over him.",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Conspiracy"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Ponmagal Vanthaal",
+    "story": "Rohini signs a contractual marriage with Gowtham for the well-being of her family. Will the two eventually fall in love and fight to save their marriage?",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Common-Man Struggles",
+        "Couples"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Nenjam Marapathillai",
+    "story": "Circumstances force Vikkram to marry Saranya, but he is in love with Sathya. What will happen when saranya finds out the truth? ",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Romance",
+        "Family",
+        "Conspiracy"
+      ]
+    },
+    "rating" : 3,
+    "poster": "./Tvimages/14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Kalyamam Kalyanam",
+    "story": "While Kamali belives in the institution of marriage, Soorya is against it. But circumstances force them to ge married. Will theur story have a happy ending?",
+    "genres": {
+      "genre": [
+        "Family",
+        "Drama",
+        "Romance",
+        "Couples"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Kizhakku Vasal",
+    "story": "Renuka, the adopted daughter of the patriarch Samiyappan, strives for acceptance and love while battling forces that threaten their extended familys unity.",
+    "genres": {
+      "genre": [
+        "Drama",
+        "Family"
+      ]
+    },
+    "rating" : 5,
+    "poster": "./Tvimages/16.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Ponnuku thanga manasu",
+    "story": "Are good qualities enough to be considered a good daughter-in law? Newlyweds Divya and Prasanth face multiple challenges thrown by his greedy mother for dowry.",
+    "genres": {
+      "genre": [
+        "Family",
+        "Romance",
+        "Common-Man Struggles",
+        "Couples"
+      ]
+    },
+    "rating" : 5,
+    "poster": "./Tvimages/17.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Saravanan Meenatchi",
+    "story": "He is a middle-class boy. She is a rich girl. Despite the differences in their families, will Saravanan and Meenatchi lead happy life together?",
+    "genres": {
+      "genre": [
+        "Family",
+        "Dramedy",
+        "Romance",
+        "Common-Man Struggles"
+      ]
+    },
+    "rating" : 5,
+    "poster": "./Tvimages/18.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Anbuden Kushi",
+    "story": "Born in a conservative family, an ambitious Kushi is married off to a middle-class boy, Anbudan. Will he support Kushi and give wings to her dreams?",
+    "genres": {
+      "genre": [
+        "Romance",
+        "Family",
+        "Common-Man Struggles",
+        "Conspiracy"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/19.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Mahanadhi",
+    "story": "Tradegy befalls a happy middle-class family after their father Saravanans sudden demise. Now, his daughters must find hope while overcoming the conflicts in life.",
+    "genres": {
+      "genre": [
+        "Family",
+        "Drama",
+        "Tradegy",
+        "Common-Man Struggles"
+      ]
+    },
+    "rating" : 4,
+    "poster": "./Tvimages/20.jpg"
+  }
+]

@@ -1,0 +1,475 @@
+  [
+    {
+      "id": 1,
+      "title": "Mangalavaaram",
+      "story": "In a village plagued by deaths, SI Maya grapples with superstition and the spirit of a mysterious girl. Can she unravel the puzzel and save the community?",
+      "genre": [
+          "Thriller |",
+          " Mystery |",
+          " Psychological "
+        ],
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/PaZcZyNGUsE?si=J7Zyyb8VXKwOgpXC",
+      "poster": "./movies/1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Siren",
+      "story": "A cat-and-mouse chase unfolds as a tainted police officer zeroes in on Thilaga varman, a parolee suspected in a spate of murders. But is he truly the culprit?",
+      "genres": {
+        "genre": [
+          "Thriller",
+          "Crime",
+          "Investigative"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/ATmYzgRQphU?si=u2cAg7JJsknnTPqw",
+      "poster": "./movies/2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Manjummel Boys",
+      "story": "Manjummel boy's carefree adventure takes a dangerous turn when one of them plunges into Guna Caves, igniting a test of unity in a gripping fight for survival",
+      "genres": {
+        "genre": [
+          "Drama  ",
+          "Action  ",
+          "Adventure"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/9Lc_Wp3ikCw?si=kJ7Zlt9cR_fzFwQh",
+      "poster": "./movies/3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Malikappuram",
+      "story": "Little Kallu longs for a glimpse of Swami Ayyapan. When she sets out on the pilgrimage to Sabarimala, a mysterious person steps forward to help. Who is he?",
+      "genres": {
+        "genre": [
+          "Thriller",
+          "Adventure",
+          "Drama",
+          "Friendship"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/OJSozSowPAI?si=SUbIZ_92uj1vqcl-",
+      "poster": "./movies/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "PARKING",
+      "story": "A clash over a shared space transforms two men from diverse backgrounds into aggressors. Will ego triumph, or can shared intentions lead to resolution?",
+      "genres": {
+        "genre": [
+          "Drama",
+          "Thriller",
+          "Conspiracy",
+          "Rivalry"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/ugJ7TETZnn0?si=Lz5B0BhUvp-2qxPe",
+      "poster": "./movies/5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "JOE",
+      "story": "Joe, who is reeling from a heartbreak by his college sweetheart, reluctantly enters an arranged marriage. What surprises await in this new chapter for him?",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Drama",
+          "First Love",
+          "Unrequited Love"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/2lrbAHMACrM?si=_Knhnvv85YE3wOCv",
+      "poster": "./movies/6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "SABA NAYAGAN",
+      "story": "Arrested for nuisance, Saba spins wild breakup tales to melt a sympathetic cop, hoping to charm his way out. Whose story is he narrating, and will his plan work?",
+      "genres": {
+        "genre": [
+          "Comedy",
+          "Romance",
+          "First Love",
+          "Unrequited Love"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/9drjMy6w-9g?si=0dy0fzm5xBRJY5Pe",
+      "poster": "./movies/7.jpg"
+    },
+    {
+      "id": 8,
+      "title": "HRIDAYAM",
+      "story": "From carefree college days to becoming a successful wedding photographer, this coming-of-age story depicts the colours of Arun Neelakandan's exciting life.",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Drama",
+          "RomCom",
+          "Couples"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/C2FU7fj0IQc?si=Rm3akx7PbxVTvyKt",
+      "poster": "./movies/8.jpg"
+    },
+    {
+      "id": 9,
+      "title": "PREMALU",
+      "story": "Charm and chaos collide in Sachin's whimsicalquest for Reenu's heart. Amidst mishaps and mischef, can he find the key to unlock true love's door?",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Comedy",
+          "Bromance",
+          "Love Triangle",
+          "Humour"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/XRz_K-pzXOI?si=4URfD0cJRiy20OUd",
+      "poster": "./movies/9.jpg"
+    },
+    {
+      "id": 10,
+      "title": "BANGALORE DAYS",
+      "story": "Three cousins - Divya,Kuttan and Arjun - have always dreamt of living in Bagalore. When they get there, they end up discovering their true selves.",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Dramedy",
+          "Light-hearted",
+          "Coming-of-Age"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/uVpHL5g4buY?si=KILEJ39m5mjEoNDj",
+      "poster": "./movies/10.jpg"
+    },
+    {
+      "id": 11,
+      "story": "In the ominous village of Kotha,'King' Raju makes a comeback with a cop's aid. Challenging Kannan's rule, he ignites a showdown of power and retribution",
+      "title": "KING OF KOTHA",
+      "genres": {
+        "genre": [
+          "Action",
+          "Thriller",
+          "Cop Drama",
+          "Drugs"
+        ]
+      },
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/fEuJ9s4yk3w?si=fqmwB8mI1rFCfKOO",
+      "poster": "./movies/11.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Baahubali 2",
+      "story": "Why did Kattappa Kill Amarendra Baahubali? Find out the answer to this monumental question as you watch Amarendra's son in action in the sequel.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Fantasy",
+          "Mystery",
+          "Conspiracy"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/94BzBOpv42g?si=fExq_NpjpzFAHtn_",
+      "poster": "./movies/12.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Thuppakki",
+      "story": "An army captain visits Mumbai to find a bride. His plans change after an explosion that sets him off on a mission to disable a terrorist cell in the city.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Mystery",
+          "Gritty",
+          "Organised Crime"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/aW_j4pNvG98?si=eUH-EWe6Pz-df4je",
+      "poster": "./movies/13.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Madras",
+      "story": "Kaali and his politically charged friend Anbu get into a heated debate over walls on which to put up party posters. How far will they go to prove their point?",
+      "genres": {
+        "genre": [
+          "Action",
+          "Drama",
+          "Thriller"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/TZE8iayS_Xk?si=u6MM4z4PZEaajY8i",
+      "poster": "./movies/14.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Maari",
+      "story": "Maari, a local don, is notorious for troubling people and extorting money. Tables turn when he falls for sridevi, who gives him taste of his own medicine.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Slapstick",
+          "Bromance",
+          "Common-Man Struggles"
+        ]
+      },
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/W3XFChOz-Z0?si=YfH2MiYvMoSaqXgN",
+      "poster": "./movies/15.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Siruthai",
+      "story": "A small-time thief's life changes when a little girl claims to be his daughter. He then decides to punish the criminals who are responsible for her plight.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Dramedy",
+          "Cop Drama",
+          "Couples"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/DWiUak-YR6Q?si=PRCwp0wQB3PLow0U",
+      "poster": "./movies/16.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Sultan",
+      "story": "Despite being raised by hardened criminals, Vikram, aka Sulthan, hates violence and decides to transform them into law-abiding citizens. But will they agree?",
+      "genres": {
+        "genre": [
+          "Action",
+          "Light-hearted",
+          "Anti-hero",
+          "Buddy"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/EWp7eDbJSCA?si=BjOzJBXTUHVLkvc6",
+      "poster": "./movies/17.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Bharath Ennum Naan",
+      "story": "When circumstances land a young Bharat in the position of the Chief Minister, he has to deal with corruption and enemies while attempting to reform politics.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Dramedy",
+          "Independent",
+          "Corruption"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/rsf9eeGUtAs?si=e_lFwqR2xrFstETU",
+      "poster": "./movies/18.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Anbarivu",
+      "story": "Stoic and Kind-hearted Arivu decides to switch places with his street-smart rowdy twin, Anbu, to unite their estranged families. And a frenzy begins.",
+      "genres": {
+        "genre": [
+          "Family",
+          "Action",
+          "Family-Friendly",
+          "Siblings"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/4IBzVr8jCDI?si=dHw0yHjBfzRXWjfY",
+      "poster": "./movies/19.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Maari 2",
+      "story": "Maari, a local don, in his new naughty-turned-nice avtar, manages to get into the bad books of Beeja, a murakami fan, who will stop at nothing to destroy him.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Dramedy",
+          "RomCom",
+          "Couples"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/ORZltL9glEA?si=k6sEaOes2S9CKboZ",
+      "poster": "./movies/20.jpg"
+    },
+    {
+      "id": 21,
+      "title": "MCA",
+      "story": "Young, middle-class boy Nanihas to protect his Sister-in-law, atransport official from a gangster, who runs an illegal transport business.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Thriller",
+          "op CDrama",
+          "Drugs"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/_oZxDqy7C_w?si=Dnbb7BbglnxMde0D",
+      "poster": "./movies/21.jpg"
+    },
+    {
+      "id": 22,
+      "title": "UNGALUKKAGA ORUVAN",
+      "story": "When a Software company CEO, Rishi, returns to India and reunites with his former classmate, little does he know that things are way worse than they look.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Drama",
+          "Dramedy",
+          "Taking on the System"
+        ]
+      },
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/ByjXIbg4hjw?si=xICz_GSfM5WNYgPB",
+      "poster": "./movies/22.jpg"
+    },
+    {
+      "id": 23,
+      "title": "TAANAKKARAN",
+      "story": "Spurred by his dark past, Arivu wants to become a police officer. However, his training instructor Moorthy may becomes a hurdle and shatter his dreams.",
+      "genres": {
+        "genre": [
+          "Drama",
+          "Action",
+          "Controversial",
+          "Prison"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/NwgAsAE5Wwg?si=CpzC3wyPxbff-oIo",
+      "poster": "./movies/23.jpg"
+    },
+    {
+      "id": 24,
+      "title": "RRR",
+      "story": "Under the British Raj, two revolutionaries with personal agendas forge a friendship, only to find each other on opposing sides.",
+      "genres": {
+        "genre": [
+          "Action",
+          "Drama",
+          "Historical",
+          "Conspiracy"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/oO8TTM2FgIA?si=0USQOLRZUDZfjhHk",
+      "poster": "./movies/24.jpg"
+    },
+    {
+      "id": 25,
+      "title": "DEAR COMRADE",
+      "story": "Rebel without a cause Bobby constantly gets into fights because of his temper. However, he meets his match when he comes across state-level cricketer Lilly.",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Action",
+          "Psychological",
+          "Communism"
+        ]
+      },
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/NxwB0pPiCyg?si=OjfcTz5_bMZkmj0x",
+      "poster": "./movies/25.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Raja Rani",
+      "story": "John and Regina get married only to please their parents but are unhappy. However, things change when they find out about each other's pasts.",
+      "genres": {
+        "genre": [
+          "Romance",
+          "RomCom",
+          "Couples",
+          "First Love"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/wZm38_0aIXk?si=_dUwVomlB89Rbaqh",
+      "poster": "./movies/26.jpg"
+    },
+    {
+      "id": 27,
+      "title": "O KADHAL KANMANI",
+      "story": "Aditya and Tara fall in love and decide on a live-relationship. However, their perception of marriage changes when they meet an old couple in love.",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Chick Flick",
+          "Couples",
+          "Femme Fatale"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/LNdeZKxqxqU?si=yD4Yx-aKCO0toyUm",
+      "poster": "./movies/27.jpg"
+    },
+    {
+      "id": 28,
+      "title": "NAAN LOCAL",
+      "story": "Babu and Keerthy are in love and wish to get married. But her dad wants her to tie the knot with her ex-fiance. How will Babu convince her family to accept him?",
+      "genres": {
+        "genre": [
+          "Romance",
+          "Dramedy",
+          "Light-hearted",
+          "RomCom"
+        ]
+      },
+      "rating": 3,
+      "trailer": "https://www.youtube.com/embed/lylc7eY6yRU?si=j3KdXXWaVUPVYHs7",
+      "poster": "./movies/28.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Janaki Jaane",
+      "story": "Struggling with panic disorder, Janaki is ecstatic when Unni Mukundan proposes to marry her. Things go south when Janaki's fears land her in serious trouble.",
+      "genres": {
+        "genre": [
+          "Drama",
+          "Family",
+          "Casual Viewing",
+          "Common-Man Struggles"
+        ]
+      },
+      "rating": 5,
+      "trailer": "https://www.youtube.com/embed/WHO8T7QBmbs?si=Ul1y8qJ2cgGvYEWD",
+      "poster": "./movies/29.jpg"
+    },
+    {
+      "id": 30,
+      "title": "GHILLI",
+      "story": "Kabbadi player Velu gets embroiled in a chaotic situation after he helps Dhanalakshmi escape a notorious gang leader's clasp.",
+      "genres": {
+        "genre": [
+          "Sports",
+          "Action"
+        ]
+      },
+      "rating": 4,
+      "trailer": "https://www.youtube.com/embed/EtJXEmW_XNM?si=fH6n6omtdlKzzd6F",
+      "poster": "./movies/30.jpg"
+    }
+  ]
